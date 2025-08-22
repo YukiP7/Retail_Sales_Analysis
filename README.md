@@ -1,8 +1,10 @@
 # 🛒 Retail Sales Analysis (Kaggle API + Python + SQL)
 
 ## 📌 Project Overview  
-This project is an **end-to-end data analytics case study** on global mart sales dataset of 2022 and 2023.
+Retail businesses generate large volumes of order and sales data. However, raw data is often messy and unstructured.
+The objective of this project was to analyze two years of retail transaction data (2022 & 2023) to identify sales trends, profit growth, and business insights that can help management make data-driven decisions.
 The goal was to simulate a real-world analytics pipeline:
+
 1. **Data Ingestion** – Downloaded raw dataset from Kaggle API.  
 2. **Data Cleaning & EDA** – Performed using Python (Pandas, NumPy, Matplotlib).  
 3. **Database Integration** – Loaded cleaned data into MySQL.  
